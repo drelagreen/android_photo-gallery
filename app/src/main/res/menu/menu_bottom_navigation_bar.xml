@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_new"
+        android:icon="@drawable/todayicon"
+        android:title="@string/new_text"/>
+    <item
+        android:id="@+id/action_popular"
+        android:icon="@drawable/fireicon"
+        android:title="@string/popular_text" />
+</menu>

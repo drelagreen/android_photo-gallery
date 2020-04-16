@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">webant_practice</string>
+    <string name="new_text">NEW</string>
+    <string name="popular_text">POPULAR</string>
+    <string name="image_content_description_text">img</string>
+    <string name="err1_text">Oh shucks!</string>
+    <string name="err2_text">Slow or no internet connection.\n Please check your internet settings</string>
+</resources>
